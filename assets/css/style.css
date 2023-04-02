@@ -1285,5 +1285,9 @@ section {
 }
 
 #footer .credits a {
-  color: #061f4a;
+  color: #ffb20c;
+}
+
+#footer .credits a:hover {
+  color: #fdbd32;
 }
